@@ -1,0 +1,6 @@
+run:
+Error: Could not find or load main class kuis123220164.Kuis123220164
+Caused by: java.lang.ClassNotFoundException: kuis123220164.Kuis123220164
+C:\Users\Lab Informatika\AppData\Local\NetBeans\Cache\11.1\executor-snippets\run.xml:111: The following error occurred while executing this line:
+C:\Users\Lab Informatika\AppData\Local\NetBeans\Cache\11.1\executor-snippets\run.xml:94: Java returned: 1
+BUILD FAILED (total time: 0 seconds)
